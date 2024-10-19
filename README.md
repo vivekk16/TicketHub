@@ -5,7 +5,7 @@ TicketHub is an application that uses modern Natural Language Processing (NLP) t
 
 In addition to general statistics and metrics, capabilities include reindexing ticket data to provide a semantic search feature and temporally clustering ticket data to understand message topics over time. The application also includes an ML-informed pre-processing pipeline to improve downstream accuracy.  All these capabilities have been packaged into a web application with automatic data ingestion and interactive metrics.  The application has been containerized and deployed on Purdue’s composable cluster, Geddes, using Kubernetes. Overall, the application seeks to be an all-in-one resource for analyzing ticket content and trends, and initial analyses have demonstrated the utility of this resource to aid future user support work by identifying common issues experienced by users, find opportunities for targeted training sessions, and help staff find previous resolutions to similar issues to increase the efficiency of ticket responses.
 
-This project was initially presented at PEARC'23 and additional details can be found in the accompanying paper.
+This project was initially presented at PEARC'23.
 
 ## Application Architecture
 * __Overview of Architecture__
